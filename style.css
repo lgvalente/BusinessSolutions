@@ -187,6 +187,16 @@ margin-left: 50px;
     background-attachment: fixed;
 }
     
+.fondo-galletitas{
+    height: 400px;
+    width: 100%;
+    background-image: url(img/cookiefactory.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 .fondo-alojamientos{
         height: 400px;
         width: 100%;
